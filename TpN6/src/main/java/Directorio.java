@@ -37,15 +37,14 @@ public class Directorio {
         return lista.get(tel);
     }
           
-    
-//    public List<Long> buscarTelefono(String ape) {
+      public List<Long> buscarTelefono(String ape) {
 //        ArrayList<Cliente> nuevaLista=new ArrayList<>();
 //        
 //        Set<Long> tel=lista.keySet();
 //        for(Long tel: telefonos) {
 //            if(ape==cliente.)
 //        }
-//    }
+   }
     
     public List<Cliente> buscarClientes(String ape) {
        return null;
